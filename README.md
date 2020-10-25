@@ -1,4 +1,4 @@
-# Mini-Project / Case-Study
+# Mini-Project in C 
 
 ## Goals
 * Gain programming confidence
