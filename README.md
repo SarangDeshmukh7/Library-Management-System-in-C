@@ -2,6 +2,7 @@
 
 ## Goals
 * Gain programming confidence
+* Practice multiple file handling
 
 ## Workflow
 - This is console based menu-driven application. Based on user login appropriate menu will be
