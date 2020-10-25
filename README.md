@@ -1,4 +1,4 @@
-# Mini-Project in C 
+# Mini-Project 
 
 ## Goals
 * Gain programming confidence
