@@ -1,4 +1,4 @@
-# Mini Project 
+# Mini-Project 
 
 ## Goals
 * Gain programming confidence
